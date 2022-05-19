@@ -10,7 +10,6 @@ We are going to solve the puzzle using 3 search algorithms.</br>
 • A* with Misplaced Tile Heuristics</br>
 • A* with Manhattan Distance Heuristics</br>
 </br>
-
 **Project Structure**</br>
 This project structure contains 5 files to increase the modularity of the application.</br>
 **Main.py:** This file contains the main method which is the starting point of the application. It will 
@@ -29,11 +28,10 @@ intermediate and final output in N * N matrix form.</br>
 **PlotGraph.py:** This file is used to plot the graph from the data we received from the comparison
 of algorithms.</br>
 </br>
-
 **How to install and run the project**</br>
 The code has been written in Python 3.9.7 and can be cloned from this repository.
-Main.py contains the main method which is starting point of the application.
-The prohgram can be run by executing the **python Main.py** command in the project folder.
+Since Main.py contains the main method which is starting point of the application.
+The program can be executed by running the **python Main.py** command in the project folder's command prompt.
 </br>
 
-Please find the report and Code for more details.
+Please find the report and code for more details.
